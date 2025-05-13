@@ -1,0 +1,38 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "renpy/common/00keymap.rpy", line 504, in script
+    python hide:
+  File "renpy/common/00keymap.rpy", line 504, in <module>
+    python hide:
+  File "renpy/common/00keymap.rpy", line 531, in _execute_python_hide
+    renpy.save("_reload-1", "reload save game")
+Exception: Could not pickle <module 'random' from '/Users/kuroneko/Downloads/renpy-7.8.7-sdk/lib/python2.7/random.pyo'>. (perhaps store.random = <module 'random' from '/Users/kuroneko/Downloads/renpy-7.8.7-sdk/lib/python2.7/random.pyo'>)
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "renpy/common/00keymap.rpy", line 504, in script
+    python hide:
+  File "/Users/kuroneko/Downloads/renpy-7.8.7-sdk/renpy/ast.py", line 834, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "/Users/kuroneko/Downloads/renpy-7.8.7-sdk/renpy/python.py", line 1187, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "renpy/common/00keymap.rpy", line 504, in <module>
+    python hide:
+  File "renpy/common/00keymap.rpy", line 531, in _execute_python_hide
+    renpy.save("_reload-1", "reload save game")
+  File "/Users/kuroneko/Downloads/renpy-7.8.7-sdk/renpy/loadsave.py", line 436, in save
+    reraise(t, e, tb)
+  File "/Users/kuroneko/Downloads/renpy-7.8.7-sdk/renpy/loadsave.py", line 417, in save
+    dump((roots, renpy.game.log), logf)
+  File "/Users/kuroneko/Downloads/renpy-7.8.7-sdk/renpy/compat/pickle.py", line 51, in dump
+    cPickle.dump(o, f, PROTOCOL)
+  File "/Users/kuroneko/Downloads/renpy-7.8.7-sdk/renpy/python.py", line 1284, in module_pickle
+    raise Exception("Could not pickle {!r}.".format(module))
+Exception: Could not pickle <module 'random' from '/Users/kuroneko/Downloads/renpy-7.8.7-sdk/lib/python2.7/random.pyo'>. (perhaps store.random = <module 'random' from '/Users/kuroneko/Downloads/renpy-7.8.7-sdk/lib/python2.7/random.pyo'>)
+
+Darwin-24.4.0-arm64-arm-64bit arm64
+Ren'Py 7.8.7.25031702
+DAO_EXE 1.0
+Tue May 13 21:18:32 2025

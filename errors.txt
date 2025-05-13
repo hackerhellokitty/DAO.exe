@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/screens.rpy", line 1626: expected statement.
+    timer timeout action Return(default)
+                               ^
+
+Ren'Py Version: Ren'Py 7.8.7.25031702
+Tue May 13 21:16:12 2025

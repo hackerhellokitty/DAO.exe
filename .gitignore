@@ -1,0 +1,14 @@
+# Ren'Py ignores
+*.rpyc
+*.rpa
+*.save
+*.log
+*.tmp
+saves/
+cache/
+persistent
+*.autosave
+
+# OS junk
+.DS_Store
+Thumbs.db
