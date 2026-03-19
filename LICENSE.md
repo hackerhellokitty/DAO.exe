@@ -1,52 +1,53 @@
-# LICENSE - MIT
+# LICENSE — MIT
 
-## 🧠 ฉบับจริงแบบทางการ (MIT License)
+## ฉบับทางการ (MIT License)
 
-Copyright (c) 2025 Miku Harukazekul
+Copyright (c) 2025 Kuroneko
 
-Permission is hereby granted, free of charge, to any person obtaining a copy  
-of this software and associated documentation files (the "Software"), to deal  
-in the Software without restriction, including without limitation the rights  
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell  
-copies of the Software, and to permit persons to whom the Software is  
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in  
+The above copyright notice and this permission notice shall be included in
 all copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR  
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,  
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE  
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER  
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,  
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN  
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 ---
 
-## 🐒 ฉบับแปลไทย แบบที่ “ลิงยังเข้าใจ”
+## ฉบับแปลไทย (สำหรับคนไม่อยากอ่านภาษากฎหมาย)
 
-- คุณสามารถใช้ แก้ไข แจกจ่าย ขาย หรือรวมโค้ดนี้กับอย่างอื่นได้เลยฟรี ๆ  
-- แค่ต้องให้เครดิตผู้สร้าง (Miku Harukazekul) ทุกครั้งที่ใช้หรือนำไปแจก  
-- ถ้าใช้แล้วคอมพัง เกมเจ๊ง หรือแฟนบอกเลิกเพราะติดเกมนี้ — อย่ามาโทษผู้สร้างนะ เพราะมันไม่มีประกันอะไรทั้งนั้น  
-- โค้ดนี้ให้ “ตามสภาพ” ใครเก่งก็รอด ใครซนก็เจ๊ง แต่อย่าดราม่า
-
----
-
-## 🌟 ฉบับน้องดาว
-
-> "จะเอาไปใช้ก็เอาเลย... จะก็อป จะดัดแปลง จะขาย จะสตรีม จะอะไรก็ทำเถอะ ดาวไม่หวง~  
-> แค่ช่วยใส่ชื่อคนสร้างไว้ด้วย อย่าทำเป็นลืม... ดาวจะเสียใจนะ  
-> แต่ถ้าเอาไปแล้วพัง หรือโดนแฟนบ่นจนทะเลาะกัน ดาวไม่เกี่ยวเด้อ~ ดาวเตือนไว้ละน้า!"
+- เอาไปใช้ได้เลย ฟรี ไม่ต้องขออนุญาต
+- แก้ไข ดัดแปลง รีแพ็ค ขาย หรือเอาไปรวมกับโปรเจกต์อื่น — ทำได้หมด
+- แค่ขอเครดิต **Kuroneko** ไว้ด้วย อย่าทำเป็นลืม
+- ถ้าโค้ดนี้ทำให้คอมพัง เกมเจ๊ง หรือแฟนเลิกเพราะติดเกมมากเกิน — อย่ามาหาผู้สร้างนะ มันไม่มีประกันอะไรทั้งนั้น
 
 ---
 
-## 👩‍🦳 ฉบับแม่ยาย
+## ฉบับน้องดาว
 
-> "โอ๊ยตายๆๆ เกมนี่เหรอ? จะเอาไปใช้อะไรก็เอาเลยลูก จะก็อป จะดัดแปลง จะขาย จะเอาไปเล่นในงานวัด แม่ไม่ว่า  
-> แต่!! อย่าลืมใส่เครดิตลูกสาวแม่ล่ะ! ชื่อเค้า Miku Harukazekul จำไว้!  
-> แล้วถ้าเอาไปใช้แล้วคอมระเบิด หรือชีวิตคู่พังเพราะมัวแต่เล่น... อย่ามาโทษเค้า! แม่เตือนไว้แล้วนะ!"
+> "จะเอาไปใช้ก็เอาเลยนะ... จะก็อป จะแก้ จะขาย จะเอาไปต่อยอดอะไรก็ได้ ดาวไม่หวงหรอก~
+> แค่ใส่ชื่อ Kuroneko ไว้ด้วยก็พอ อย่าทำเป็นลืมล่ะ... ดาวจะน้อยใจนะ
+> แต่ถ้าเอาไปแล้วพัง หรือชีวิตวุ่นวายเพราะโค้ดนี้ ดาวไม่รับผิดชอบด้วยเด้อ บอกไว้ก่อนละกัน~"
 
 ---
 
-💬 เลือกเวอร์ชั่นที่คุณชอบ หรือจะอ่านทั้งสามเวอร์ชั่นก็ได้ เพื่อความสนุกและเข้าใจลึกซึ้งในแนวทางเสรีภาพของ MIT License ♥
+## ฉบับแมวดำ (Kuroneko edition)
+
+> "เออ เอาไปได้เลย ไม่ต้องถาม
+> แค่ถ้าเอาไปโชว์ใคร อย่าลืมบอกว่ามันมาจากไหน
+> ส่วนถ้าพัง... ก็ debug เองนะ
+> แมวดำไม่มีสายด่วน"
+
+---
+
+*เลือกอ่านเวอร์ชั่นไหนก็ได้ เนื้อหาเหมือนกันทุกอัน แค่โทนต่างกัน*
