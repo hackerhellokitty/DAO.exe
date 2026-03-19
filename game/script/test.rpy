@@ -42,4 +42,5 @@ label after_argument:
 dao "ขอโทษนะ พอดี คนสร้างดาวอยากทดสอบนายน่ะ"
 "Debug ความงี่เง่า: [dao_clingy]"
 "Debug ความสัมพันธ์: [dao_relation]"
-return
+
+jump prologue
